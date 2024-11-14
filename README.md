@@ -1,0 +1,1 @@
+Implement multi-headed self-attention (Q, K, V) in Python using the PyTorch library. For an input sequence represented as a matrix, compute the self-attention for each head, combine the attention scores, and calculate the overall attention scores.  
